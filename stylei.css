@@ -1,0 +1,29 @@
+body{
+   
+    background-color: rgb(228, 135, 200);
+}           
+header{
+    font-size: cover;
+    background-image: url('');
+    color: #ffc;
+    
+}
+header h2{
+    font-size: 40px;
+}
+.inicio h1{
+    text-align: center;
+    background-color: rgb(228, 135, 200);
+}
+.inicio p{
+    background-color: #ffc;
+    font-size: 20px;
+    width: 40%;
+    border-radius: 10px;
+    display: block;
+    margin: auto;
+    margin-top: 10px;
+}
+.inicio img{
+    font-size: cover;
+}
